@@ -11,3 +11,4 @@ The following files contain the steps into which the model was created;
 
 Current standing on Kaggle:
 
+![Alt text](curr-rank.png?)
